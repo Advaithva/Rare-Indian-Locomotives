@@ -7,5 +7,5 @@ function WDM() {
 }
 
 function WDMA() {
- alert(""); 
+ alert("This is WDm 4. It is a broad gauge locomotive. They entered service in 1962. A total of 72 WDM-4 locomotives were built between 1961 and 1962. Maximum speed:	Restricted: 120 km/h, Running: 130 km/h, Rated: 140 km/h, Tested: 145 km/h, Only two locomotives are preserved"); 
 }
