@@ -20,5 +20,5 @@ function WDMG() {
 }
 
 function WDMB() {
- alert("")
+ alert("This is WDM 7 locomotive. It is a broad gauge locomotive. Fifteen of these locomotives (road numbers #11001 to #11015) were built from 1987 to 1989 as a low-powered, lightweight version of the original ALCO. The locomotives were produced with an intention of being fuel efficient and to be used for light to medium duties such as short passenger runs along with occasional shunting. Max Speed - 105km/h, Power - 2000hp")
 }
