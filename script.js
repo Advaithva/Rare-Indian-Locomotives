@@ -26,3 +26,7 @@ function WDMB() {
 function WDG() {
   alert("This is WDG 5 locomotive. It is a broad gauge locomotive. The locomotive or the series is named Bheem. This loco was unfortunately stopped only with 7 units due to the Fuel Inefficiency of the v20-710 powerpack.")
 }
+
+function WDP() {
+ alert("This is WDP 2 locomotive. It is a broad gauge locomotive.")
+}
