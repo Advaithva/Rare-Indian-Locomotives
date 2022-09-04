@@ -16,7 +16,7 @@ function LOADER() {
 }
 
 function WDMG() {
- slert("")
+ slert("This is WDM 2g. It is a varient of WDM 2 locomotive. It is a broad gauge locomotive. It is one of the rarest locomotives in India with only two units being produced by Diesel-Loco Modernisation Works. Max Speed - 120kmph, Power - 2400hp. Two locomotives numbered 80000 and 80001 entered service in 2013 ")
 }
 
 function WDMB() {
