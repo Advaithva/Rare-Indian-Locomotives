@@ -14,3 +14,11 @@ function LOADER() {
  alert("Loading...")
  alert("Click on the images to view more information")
 }
+
+function WDMG() {
+ slert("")
+}
+
+function WDMB() {
+ alert("")
+}
