@@ -28,5 +28,5 @@ function WDG() {
 }
 
 function WDP() {
- alert("This is WDP 2 locomotive. It is a broad gauge locomotive.")
+ alert("This is WDP 2 locomotive. It is a broad gauge locomotive. This locomotives are actually prototypes of the class WDP 1 and never entered serial production. Designed in 1996 by DLW. 2300 hp. Co-Co bogies.")
 }
