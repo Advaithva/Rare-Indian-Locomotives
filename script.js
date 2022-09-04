@@ -32,7 +32,7 @@ function WDP() {
 }
 
 function WDSA() {
- alert("This is WDS 4 locomotive. It is a broad gauge locomotive. It is used for shunting purposes. Many locomotives have been scrapped. At present there are only 11 locomotives in service. Ma speed - 60-65km/h, power 600-700hp");
+ alert("This is WDS 4 locomotive also known as PAPPU. It is a broad gauge locomotive. It is used for shunting purposes. Many locomotives have been scrapped. At present there are only 11 locomotives in service. Ma speed - 60-65km/h, power 600-700hp");
 }
 
 function WDSB() {
