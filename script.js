@@ -30,3 +30,11 @@ function WDG() {
 function WDP() {
  alert("This is WDP 2 locomotive. It is a broad gauge locomotive. This locomotives are actually prototypes of the class WDP 1 and never entered serial production. Designed in 1996 by DLW. 2300 hp. Co-Co bogies.")
 }
+
+function WDSA() {
+ alert("This is WDS 4 locomotive. It is a broad gauge locomotive. It is used for shunting purposes. Many locomotives have been scrapped. At present there are only 11 locomotives in service. Ma speed - 60-65km/h, power 600-700hp");
+}
+
+function WDSB() {
+ alert("");
+}
