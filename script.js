@@ -38,3 +38,13 @@ function WDSA() {
 function WDSB() {
  alert("This is WDS 5 and a broad gauge locomotive. It is also used for shunting purposes. Only 4 locomotives are in service. Max speed 109km/h power - 1065hp");
 }
+
+function WCM() {
+ alert("")
+}
+
+function WCM() {
+ alert("")
+}
+
+
